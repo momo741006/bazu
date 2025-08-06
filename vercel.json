@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/bazi.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/bazi", "dest": "api/bazi.js" }
+  ]
+}

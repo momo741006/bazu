@@ -1,0 +1,8 @@
+{
+  "name": "bazi-api",
+  "version": "1.0.0",
+  "main": "api/bazi.js",
+  "dependencies": {
+    "@tony801015/chinese-lunar": "^1.0.0"
+  }
+}
